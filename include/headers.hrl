@@ -1,0 +1,1 @@
+-define(PRINT(Fmt, Args), io:fwrite(Fmt, Args)).

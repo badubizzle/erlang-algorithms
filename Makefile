@@ -1,0 +1,1 @@
+run:; erlc -o ./ebin ./src/*.erl; ./main.erl
